@@ -1,0 +1,13 @@
+/site-defesa-civil
+│── index.html
+│── quiz.html
+│── css/style.css
+│── js/script.js
+│── templates/
+│    ├── turma.html
+│    ├── curso.html
+│    ├── historia.html
+│    ├── quiz.html
+│    └── contato.html
+│── img/logo.jpg
+
